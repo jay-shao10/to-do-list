@@ -7,7 +7,7 @@ For the first time you have to run
 
 ```
 pip install -r requirements.txt
-python creat_db.py
+python create_db.py
 ```
 
 About this program, you can
